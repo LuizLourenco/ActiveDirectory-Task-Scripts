@@ -1,0 +1,15 @@
+web01.companyname.com
+mail.companyname.com
+db01.companyname.com
+app01.companyname.com
+fileserver.companyname.com
+vpn.companyname.com
+proxy.companyname.com
+dev01.companyname.com
+test01.companyname.com
+backup.companyname.com
+hr.companyname.com
+finance.companyname.com
+support.companyname.com
+sales.companyname.com
+marketing.companyname.com
